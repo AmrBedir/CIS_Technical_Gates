@@ -1,0 +1,127 @@
+body, html {
+	height: 100vh;
+	overflow: hidden;
+	background-color: hsl(30, 38%, 92%);
+}
+
+.container {
+	max-width: 1440px;
+	height: 100%;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	position: absolute;
+	width: 600px;
+	height: 450px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 10px;
+	display: flex;
+}
+
+.right-image {
+	width: calc(600px/2);
+	height: 100%;
+	border-radius: 10px 0 0 10px;
+	justify-content: flex-start;
+}
+
+.text-column {
+	width: 230px;
+	height: 90%;
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: space-between;
+	margin: auto;
+}
+
+.small-title {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	color: hsl(228, 12%, 48%);
+	margin-bottom: 10px;
+}
+
+.title {
+	position: relative;
+	font-family: 'Fraunces', serif;
+	font-weight: 700;
+	line-height: 100%;
+	color: hsl(212, 21%, 14%);
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.description {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 150%;
+	color: hsl(228, 12%, 48%);
+	margin-bottom: 10px;
+}
+
+.prices {
+	display: flex;
+	align-content: flex-start;
+	justify-content: space-around;
+}
+
+.price {
+	font-family: 'Fraunces', serif;
+	font-weight: 700;
+	color: hsl(158, 36%, 37%);
+}
+
+.old-price {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	color: hsl(228, 12%, 48%);
+	text-decoration: line-through;
+	margin: auto;
+}
+
+.text-column button {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	background-color: hsl(158, 36%, 37%);
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: hsl(0, 0%, 100%);
+	position: relative;
+	left: 5px;
+	padding: 10px;
+}
+
+.text-column button p {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: hsl(0, 0%, 100%);
+	position: relative;
+	left: 5px;
+}
+
+.text-column button:active {
+	background-color: hsl(158, 44%, 15%);
+}
