@@ -7,13 +7,18 @@ Fields and Technologies increase every day and with them increase our questions 
 ## Front-end Tasks
  
 * [First Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_First_Session)
+   * [Product preview card component challenge on Frontend Mentor.](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 * [Second Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Second_Session)
+     * [Base Apparel coming soon page challenge on Frontend Mentor.](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+
 * [Third Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Third_Session)
+     * [Sunnyside agency landing page challenge on Frontend Mentor.](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
+
 
 ## Mentors  
 
-* [Eng. Alaa Yasser](https://linkedin.com/in/alaayasser741)
-* [Eng. Merhan Mostafa](https://www.linkedin.com/in/merhanmostafa47/)
+* [Eng. Alaa Yasser](https://linkedin.com/in/alaayasser741/)
+* [Eng. Merhan Mostafa](https://linkedin.com/in/merhanmostafa47/)
 
 
 ## Give a Star! ⭐️
