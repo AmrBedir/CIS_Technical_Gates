@@ -10,5 +10,11 @@ Fields and Technologies increase every day and with them increase our questions 
 * [Second Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Second_Session)
 * [Third Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Third_Session)
 
+## Mentors  
+
+* [Eng. Alaa Yasser](https://linkedin.com/in/alaayasser741)
+* [Eng. Merhan Mostafa](https://www.linkedin.com/in/merhanmostafa47/)
+
+
 ## Give a Star! ⭐️
 If you find this repository useful, please give it a star. Thanks!
