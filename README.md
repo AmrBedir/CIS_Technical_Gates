@@ -8,6 +8,7 @@ Fields and Technologies increase every day and with them increase our questions 
  
 * [First Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_First_Session)
 * [Second Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Second_Session)
+* [Third Session](https://github.com/AmrBedir/CIS_Technical_Gates/tree/main/Front-End_Third_Session)
 
 ## Give a Star! ⭐️
 If you find this repository useful, please give it a star. Thanks!
